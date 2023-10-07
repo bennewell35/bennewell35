@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bennewell35
-- 👀 I’m interested in building my sofrware development skills
+- 👀 I’m interested in building my software development skills
 - 🌱 I’m currently learning everything from front-end to back-end development
 - 💞️ I’m looking to collaborate on building software for the health and fitness industry
 
