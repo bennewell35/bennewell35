@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @bennewell35
-- 👀 I’m interested in building my software development skills
-- 🌱 I’m currently learning everything from front-end to back-end development
-- 💞️ I’m looking to collaborate on building software for the health and fitness industry
+
+👋 Hello, I'm Ben Newell (@bennewell35),
+
+🔍 I'm deeply passionate about advancing my expertise in software development, with a keen focus on enhancing my capabilities across the full development spectrum, from front-end user interface design to back-end system architecture.
+
+📚 Currently, I'm on a journey of continuous learning, embracing a comprehensive skill set in both front-end and back-end development. This holistic approach enables me to understand and contribute to all aspects of software creation, ensuring a seamless, user-centric experience.
+
+💪 My ambition is to leverage these skills in collaboration with others who share a vision for innovating within the health and fitness industry. Together, we can develop impactful software solutions that promote wellness and facilitate healthier lifestyles.
+
+Let's connect and create something meaningful for the world of health and fitness!
 
 
 <!---
